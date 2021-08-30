@@ -18,3 +18,5 @@ hello gitee
 	---hotfix
 
 	--master
+	
+	--github
